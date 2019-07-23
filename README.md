@@ -15,7 +15,7 @@ creates compressor-1.0-SNAPSHOT-jar-with-dependencies.jar inside target director
 
 ```
  java -jar ./compressor-1.0-SNAPSHOT-jar-with-dependencies.jar
- usage: Agoda compressor
+ usage: Fun compressor
  -a,--action <arg>       available actions: c (for compress), d (for
                          decompress)
  -i,--input-dir <arg>    input dir
